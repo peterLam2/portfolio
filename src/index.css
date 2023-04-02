@@ -23,3 +23,11 @@ a {
     font-family: burtons;
     src: url("../public/Burtons.otf");
 }
+
+.img-wrapper{
+  overflow:hidden;
+}
+img.hover-zoom:hover {
+  transform: scale(1.25);
+}
+
